@@ -3,6 +3,8 @@
     color: #333;
     padding: 20px;
     text-align: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
 
 .footer-container {
@@ -30,18 +32,20 @@
     border: 1px solid #ccc;
     background: #fff;
     color: #333;
+    border-radius: 10px;
 }
 
 .footer-column button {
     width: 50%;
     margin-top: 10px;
     padding: 8px;
-    background: #007bff;
+    background: #1A4670;
     border: none;
     color: white;
     cursor: pointer;
+    border-radius: 30px;
 }
 
 .footer-column button:hover {
-    background: #0056b3;
+    background: #153859;
 }

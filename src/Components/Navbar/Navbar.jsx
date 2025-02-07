@@ -43,7 +43,7 @@ const Nav = () => {
                     <div className={`nav-links ${isOpen ? 'active' : ''}`}>
                         <ul>
                             <li><NavLink to="/" className="link" onClick={toggleMenu}>HOME</NavLink></li>
-                            <li><NavLink to="/findhelp" className="link" onClick={toggleMenu}>FIND HELP</NavLink></li>
+                            <li><NavLink to="/find-help" className="link" onClick={toggleMenu}>FIND HELP</NavLink></li>
                             <li><NavLink to="/chat" className="link" onClick={toggleMenu}>CHAT WITH US</NavLink></li>
                             <li><NavLink to="/contact" className="link" onClick={toggleMenu}>CONTACT</NavLink></li>
                         </ul>

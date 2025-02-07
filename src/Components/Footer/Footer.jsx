@@ -13,8 +13,8 @@ const Footer = () => {
                 </div>
                 <div className="footer-column">
                     <h3>Contact Us</h3>
-                    <p><FontAwesomeIcon icon={faEnvelope} /> contact@example.com</p>
-                    <p><FontAwesomeIcon icon={faPhone} /> +123 456 7890</p>
+                    <p><FontAwesomeIcon icon={faEnvelope} /> resqnet@gmail.com</p>
+                    <p><FontAwesomeIcon icon={faPhone} /> +91 94XXXXXXXX</p>
                 </div>
                 <div className="footer-column">
                     <h3>Subscribe</h3>
