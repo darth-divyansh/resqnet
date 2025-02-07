@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="footer-container">
                 <div className="footer-column">
                     <h3>About Us</h3>
-                    <p>We are committed to providing the best services and experiences.</p>
+                    <p>Providing real-time disaster alerts, safety guidelines, and emergency response resources.</p>
                 </div>
                 <div className="footer-column">
                     <h3>Contact Us</h3>
