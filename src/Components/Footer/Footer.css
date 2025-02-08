@@ -30,6 +30,7 @@
 .footer-column input {
     width: 100%;
     padding: 8px;
+    max-width: 300px;
     margin-top: 5px;
     border: 1px solid #ccc;
     background: #fff;
