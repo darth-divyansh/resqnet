@@ -87,6 +87,10 @@
     .step {
         width: 48%;
     }
+
+    .how-it-works {
+        margin-bottom: 500px;
+    }
 }
 
 @media (max-width: 600px) {
