@@ -39,10 +39,10 @@
     background-color: #c9302c;
 }
 
-/* How It Works Section */
 .how-it-works {
     margin-top: 50px;
     text-align: center;
+    margin-bottom: 250px;
 }
 
 .how-it-works h2 {
